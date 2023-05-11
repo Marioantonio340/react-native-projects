@@ -17,4 +17,4 @@
 
 ## Projects
 
-- [Alura: Utilizando e criando hooks](https://github.com/Marioantonio340/react-native-projects/tree/alura-react-native-criando-e-utilizando-hooks)
+- [Alura: Utilizando e criando hooks](https://github.com/Marioantonio340/react-native-projects/tree/develop/utilizando-e-criando-hooks)
