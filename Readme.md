@@ -1,11 +1,10 @@
 <!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="">
-    <img src="github/mario.gif" alt="Logo" width="auto" height="80">
-  </a>
+ ![Thumbnails GitHub](github/gitHubThumbnail.png)
 
-![Thumbnails GitHub](https://user-images.githubusercontent.com/9091491/131161965-2c17a8ae-b7c2-49d4-b072-f636cb989a18.png)
+  <div align="center">
+    <img src="github/mario.gif" alt="Logo" width="auto" height="80">
+  </div>
+
 
 # Lista de Produtores na Home do Orgs
 
