@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
- ![Thumbnails GitHub](github/gitHubThumbnail.png)
+ ![Thumbnails GitHub](../github/gitHubThumbnail.png)
 
   <div align="center">
-    <img src="github/mario.gif" alt="Logo" width="auto" height="80">
+    <img src="../github/mario.gif" alt="Logo" width="auto" height="80">
   </div>
 
 
